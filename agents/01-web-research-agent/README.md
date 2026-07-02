@@ -32,7 +32,7 @@ python agent.py
 
 # Custom query
 python agent.py --query "latest advances in quantum computing"
-```
+``
 
 ## Sample Output
 
